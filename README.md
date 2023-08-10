@@ -18,4 +18,5 @@ For each of these projects there may ne files and screenshots or other code whic
 For the storage of sensitive information, I will also create a folder of documents that I need for in case my credentials or sensitive information is asked. I can have restricted access on these folders and files and make sure that they are not public.
 
 # Burndown chart
-For the burned down chart. I was unable to create the chart on excel but I found more or less what exactly it means. It is there to show what tasks should be done on which day or which sprint in our case.
+[Burndown-chart.xlsx](https://github.com/CloaXy/CMPG323_Overview-34416579/files/12311962/Burndown-chart.xlsx)
+
