@@ -13,9 +13,13 @@ Master Branch: This branch contains the main project overview and serves as the 
 Master README: The main README file located in the master branch provides an overview of the repository, including instructions on navigation and usage.
 # Project Management Workflow
 Initiation: A new project is identified, and a project repository is created. The project repository is then linked to this overview repository for planning purposes.
+
 Planning: Tasks and milestones for the project are outlined on the project board within the project repository. Due dates and progress tracking are managed within the project repository's Kanban board.
+
 Execution: I work on assigned tasks within the project repository, moving them through the Kanban board columns as progress is made.
+
 Review: Regular reviews are conducted within the project repository to assess progress, identify any blockers or issues, and make necessary adjustments to the project plan.
+
 Completion: Upon completion of the project, final documentation and deliverables are updated within the project repository. The project repository's status is then updated within this overview repository.
 # Collaboration Guidelines
 Communication: Effective communication is key. I utilize project-specific communication channels within the project repository for discussing ideas, providing feedback, and sharing updates.
@@ -29,6 +33,7 @@ This Semester Project Planning Kanban Board, linked to individual project reposi
 Thank you for your interest in my projects! Let's make this semester a successful one.
 
 Author: Llayton Titus
+
 Contact: llaytontitus@gmail.com
 
 # Burndown chart
