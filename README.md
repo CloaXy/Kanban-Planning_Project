@@ -23,9 +23,11 @@ Review: Regular reviews are conducted within the project repository to assess pr
 Completion: Upon completion of the project, final documentation and deliverables are updated within the project repository. The project repository's status is then updated within this overview repository.
 # Collaboration Guidelines
 Communication: Effective communication is key. I utilize project-specific communication channels within the project repository for discussing ideas, providing feedback, and sharing updates.
+
 Documentation: Comprehensive documentation accompanies each project within its dedicated repository, including README.md files with clear instructions, explanations, and any necessary resources or references.
 # Repository Maintenance
 Regular Updates: This overview repository will be regularly updated to reflect the latest status of all linked project repositories.
+
 Archiving: Completed projects will be archived within their respective repositories to maintain a clean and organized structure.
 # Conclusion
 This Semester Project Planning Kanban Board, linked to individual project repositories, is designed to facilitate efficient project management and planning throughout the semester. By adhering to the outlined workflow and guidelines, I aim to deliver high-quality projects while maintaining an organized development environment.
