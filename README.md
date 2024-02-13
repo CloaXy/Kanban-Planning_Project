@@ -1,21 +1,35 @@
-# CMPG323_Overview-34416579
-For all or most of the projects that will be done during the semester, I will try to utilize mostly the Overview repository that has been created. I will then use branches to add the different code and different READMe.md files where I will describe how the project works and how everything is done during that specific project.
-If a project requires that it's own repository needs to be created because of the amount of pranches that the project needs or whatever the reason, I will create a new repository, but keep on updating the overview repository to make sure that all the tasks and information about them are up to date.
+# Semester Project Planning Kanban Board
+Welcome to the Semester Project Planning Kanban Board! This repository serves as a centralized hub for planning and organizing various projects throughout the semester. Utilizing the Kanban methodology, I aim to streamline the project management process, ensuring clarity, efficiency, and effective planning.
 
-# Branching Strategy
-Project 2: During project 2, there will be a main branch which will contain all the information concerning how the project is done. There will also be other sub-branches that will contain the code and information used in SQL Server, and another branch that will contain the code for the API where I will mostlikely use Visual Studio 2022.
+# Overview
+For all or most of the projects scheduled during the semester, this repository will serve as a central point for planning and coordination. Each individual project has its own dedicated repository, linked to this overview repository for planning purposes. Project repositories will contain code, documentation, and other project-specific resources, while this overview repository will focus on high-level planning and coordination.
 
-Project 3: For this project another repository will most likely be create that will explain how the program works in the main branch's README.md file. There will then be other branches that will contain the code for the different files that is needed to run the program, each also with a README.md file that explains the code and what happens.
+# Repository Structure
+Linked Repositories
+Project Repositories: Each project has its own dedicated repository. These repositories are linked to this overview repository to facilitate planning and tracking due dates.
+# Branches
+Master Branch: This branch contains the main project overview and serves as the entry point for navigating through different projects.
+# README.md Files
+Master README: The main README file located in the master branch provides an overview of the repository, including instructions on navigation and usage.
+# Project Management Workflow
+Initiation: A new project is identified, and a project repository is created. The project repository is then linked to this overview repository for planning purposes.
+Planning: Tasks and milestones for the project are outlined on the project board within the project repository. Due dates and progress tracking are managed within the project repository's Kanban board.
+Execution: I work on assigned tasks within the project repository, moving them through the Kanban board columns as progress is made.
+Review: Regular reviews are conducted within the project repository to assess progress, identify any blockers or issues, and make necessary adjustments to the project plan.
+Completion: Upon completion of the project, final documentation and deliverables are updated within the project repository. The project repository's status is then updated within this overview repository.
+# Collaboration Guidelines
+Communication: Effective communication is key. I utilize project-specific communication channels within the project repository for discussing ideas, providing feedback, and sharing updates.
+Documentation: Comprehensive documentation accompanies each project within its dedicated repository, including README.md files with clear instructions, explanations, and any necessary resources or references.
+# Repository Maintenance
+Regular Updates: This overview repository will be regularly updated to reflect the latest status of all linked project repositories.
+Archiving: Completed projects will be archived within their respective repositories to maintain a clean and organized structure.
+# Conclusion
+This Semester Project Planning Kanban Board, linked to individual project repositories, is designed to facilitate efficient project management and planning throughout the semester. By adhering to the outlined workflow and guidelines, I aim to deliver high-quality projects while maintaining an organized development environment.
 
-Project 4: A new repository will be created for this project where there will be README.md file that explains how the report is to be used and how the UI Automation will work. There will also be reference list within one of the branches created to give there sites visited their credit.
+Thank you for your interest in my projects! Let's make this semester a successful one.
 
-Project 5:In project 5, a new repository will be created and once again a main branch to explain what the project is about and other different branches to explain what is done and how everything works. A reference list will also be given in one of the branches' README.md file make sure that all the visited sites are referenced.
-
-# .gitignore
-For each of these projects there may ne files and screenshots or other code which did not work exactly that I do not need in the working version of a program, but which I will still save to keep as proof of what was done. Those file directories will be put into a .gitignore file to make sure that it will not be used.
-
-# Storage of sensitive information
-For the storage of sensitive information, I will also create a folder of documents that I need for in case my credentials or sensitive information is asked. I can have restricted access on these folders and files and make sure that they are not public.
+Author: Llayton Titus
+Contact: llaytontitus@gmail.com
 
 # Burndown chart
 [Burndown-chart.xlsx](https://github.com/CloaXy/CMPG323_Overview-34416579/files/12311962/Burndown-chart.xlsx)
